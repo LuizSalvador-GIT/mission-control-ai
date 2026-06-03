@@ -1,0 +1,16 @@
+# requirements.txt
+# Mission Control AI — NavBR-1
+# Global Solution 2026.1 — FIAP
+# Instalar com: pip install -r requirements.txt
+
+# Obrigatórias
+ollama==0.6.2
+python-dotenv==1.2.2
+rich==15.0.0
+prompt-toolkit==3.0.52
+pyfiglet==1.0.4
+
+# Opcionais — descomente se quiser incrementar
+# pandas==2.2.3
+# matplotlib==3.9.2
+# textual==0.80.1
